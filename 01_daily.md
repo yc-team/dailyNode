@@ -8,4 +8,5 @@
 * [Yukin-node@serve](http://djt.qq.com/ppt/24)
 * [nodejs在朋友网的实践](http://djt.qq.com/ppt/23)
 * [深入浅出Node.js（一）：什么是Node.js](http://djt.qq.com/article/view/342)
+* [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
 
