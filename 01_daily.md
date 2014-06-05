@@ -12,4 +12,5 @@
 * [沪js讲师PPT](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
 * [花千hujs的PPT](http://fengmk2.cnpmjs.org/ppt/hujs.html#slide-1)
 * [CoffeScript的翻译](http://coffee-script.org/) !!
+* [Goodbye node-forever, hello PM2](http://devo.ps/blog/2013/06/26/goodbye-node-forever-hello-pm2.html)
 
