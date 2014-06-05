@@ -10,4 +10,5 @@
 * [深入浅出Node.js（一）：什么是Node.js](http://djt.qq.com/article/view/342)
 * [Cnode wiki](https://github.com/cnodejs/nodeclub/wiki/_pages)
 * [沪js讲师PPT](http://cnodejs.org/topic/505acc95fd37ea6b2f1813de)
+* [花千hujs的PPT](http://fengmk2.cnpmjs.org/ppt/hujs.html#slide-1)
 
