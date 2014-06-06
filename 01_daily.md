@@ -14,4 +14,5 @@
 * [CoffeScript的翻译](http://coffee-script.org/) !!
 * [Goodbye node-forever, hello PM2](http://devo.ps/blog/2013/06/26/goodbye-node-forever-hello-pm2.html)
 * [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
+* [howtonode website](http://howtonode.org/)
 
