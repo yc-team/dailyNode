@@ -16,4 +16,5 @@
 * [cnode的jiyinyiyong翻译版本](http://cnodejs.org/topic/51cc49e973c638f37042f7b4)
 * [howtonode website](http://howtonode.org/)
 * [NetEase github](https://github.com/NetEase) !!
+* [Why I am switching to promises](http://spion.github.io/posts/why-i-am-switching-to-promises.html)
 
