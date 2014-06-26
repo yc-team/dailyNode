@@ -20,4 +20,6 @@
 * [Node.js软肋之CPU密集型任务](http://www.infoq.com/cn/articles/nodejs-weakness-cpu-intensive-tasks/)
 * [Node.js异步处理CPU密集型任务的新思路](http://www.infoq.com/cn/articles/new-idea-of-nodejs-asynchronous-processing-tasks)
 * [Node Security Project](https://nodesecurity.io/resources)
+* [Node内存泄露专题](http://cnodejs.org/topic/4fa94df3b92b05485007fd87) !!
+
 
