@@ -23,5 +23,6 @@
 * [Node内存泄露专题](http://cnodejs.org/topic/4fa94df3b92b05485007fd87) !!
 * [用nodejs开发的网站用什么作服务器端比较好？ NGNIX? APACHE?](http://cnodejs.org/topic/53a5331ba087f4562068090c)
 * [Phusion Passenger: Node.js](https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial)
+* [TJ的Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
 
 
