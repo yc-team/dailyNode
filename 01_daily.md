@@ -25,4 +25,5 @@
 * [Phusion Passenger: Node.js](https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial)
 * [TJ的Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
 * ['binary' encoding is deprecated](http://nodejs.org/api/buffer.html#buffer_buffer)
+* [Use Buffers when decoding](https://github.com/ashtuchkin/iconv-lite/wiki/Use-Buffers-when-decoding)
 
