@@ -27,5 +27,6 @@
 * ['binary' encoding is deprecated](http://nodejs.org/api/buffer.html#buffer_buffer)
 * [Use Buffers when decoding](https://github.com/ashtuchkin/iconv-lite/wiki/Use-Buffers-when-decoding)
 * [node for IOS](https://github.com/node-app)
+* [nodejs encoding using request](http://stackoverflow.com/questions/12040643/nodejs-encoding-using-request)
 
 
