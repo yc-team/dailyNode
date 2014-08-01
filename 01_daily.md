@@ -29,5 +29,6 @@
 * [node for IOS](https://github.com/node-app)
 * [nodejs encoding using request](http://stackoverflow.com/questions/12040643/nodejs-encoding-using-request)
 * [window下nodejs爬取gb2312网页出现乱码的解决方案](http://cnodejs.org/topic/5034b141f767cc9a51baf9b0)
+* [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
 
 
