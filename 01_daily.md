@@ -32,5 +32,6 @@
 * [node.js jsdom gb系列网页中文乱码问题解决方案](http://blog.csdn.net/notejs/article/details/8769226)
 * [where-node-dot-js-meets-ios](https://speakerdeck.com/srijs/where-node-dot-js-meets-ios)
 * [Eliminate HTTP Requests For JS Files – DynoSRC](http://www.webresourcesdepot.com/eliminate-http-requests-for-js-files-dynosrc/?utm_source=tuicool)
+* [Node.js V0.12新特性之Cluster轮转法负载均衡](http://www.infoq.com/cn/articles/nodejs-cluster-round-robin-load-balancing)
 
 
