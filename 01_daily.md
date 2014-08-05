@@ -37,3 +37,4 @@
 * [Node.js V0.12新特性之Cluster轮转法负载均衡](http://www.infoq.com/cn/articles/nodejs-cluster-round-robin-load-balancing)
 * [Improving Node.js Concurrency with Cluster](https://devcenter.heroku.com/articles/node-cluster#using-cluster)
 * [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
+* [StrongLoop & Express](https://medium.com/code-adventures/strongloop-express-40b8bcb8e5af)
