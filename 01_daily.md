@@ -38,3 +38,4 @@
 * [Improving Node.js Concurrency with Cluster](https://devcenter.heroku.com/articles/node-cluster#using-cluster)
 * [被误解的 Node.js](http://www.ibm.com/developerworks/cn/web/1201_wangqf_nodejs/)
 * [StrongLoop & Express](https://medium.com/code-adventures/strongloop-express-40b8bcb8e5af)
+* [TJ Holowaychuk Passes Sponsorship of Express to StrongLoop](http://strongloop.com/strongblog/tj-holowaychuk-sponsorship-of-express/)
