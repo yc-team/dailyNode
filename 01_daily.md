@@ -40,3 +40,4 @@
 * [StrongLoop & Express](https://medium.com/code-adventures/strongloop-express-40b8bcb8e5af)
 * [TJ Holowaychuk Passes Sponsorship of Express to StrongLoop](http://strongloop.com/strongblog/tj-holowaychuk-sponsorship-of-express/)
 * [后端即服务公司StrongLoop，A轮融资800万美元](http://techcrunch.cn/2013/09/20/strongloop-raises-8m-for-mobile-app-platform-built-on-node-js/)
+* [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
