@@ -7,6 +7,7 @@
 * [如何使用NPM来管理你的Node.js依赖](http://www.infoq.com/cn/articles/msh-using-npm-manage-node.js-dependence/)
 * [Sending emails in Node](http://stackoverflow.com/questions/4113701/sending-emails-in-node-js)
 * [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
+* [Node.js Module – exports vs module.exports](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html)
 * [Yukin-node@serve](http://djt.qq.com/ppt/24)
 * [nodejs在朋友网的实践](http://djt.qq.com/ppt/23)
 * [深入浅出Node.js（一）：什么是Node.js](http://djt.qq.com/article/view/342)
