@@ -7,6 +7,7 @@
 * [Debug Node.js apps with node-inspector](http://debugfix.com/2012/03/debug-node-js-apps-node-inspector/)
 * [node-inspector bug:process.env has undefined values for all environment variables](https://github.com/node-inspector/node-inspector/issues/361)
 * [如何使用NPM来管理你的Node.js依赖](http://www.infoq.com/cn/articles/msh-using-npm-manage-node.js-dependence/)
+* [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [Sending emails in Node](http://stackoverflow.com/questions/4113701/sending-emails-in-node-js)
 * [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
 * [Node.js Module – exports vs module.exports](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html)
