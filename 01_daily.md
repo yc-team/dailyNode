@@ -5,6 +5,7 @@
 * [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
 * [npm install --save no longer using tildes](http://fredkschott.com/post/2014/02/npm-no-longer-defaults-to-tildes/)
 * [Debug Node.js apps with node-inspector](http://debugfix.com/2012/03/debug-node-js-apps-node-inspector/)
+* [node-inspector bug:process.env has undefined values for all environment variables](https://github.com/node-inspector/node-inspector/issues/361)
 * [如何使用NPM来管理你的Node.js依赖](http://www.infoq.com/cn/articles/msh-using-npm-manage-node.js-dependence/)
 * [Sending emails in Node](http://stackoverflow.com/questions/4113701/sending-emails-in-node-js)
 * [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
