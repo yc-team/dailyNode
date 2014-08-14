@@ -16,6 +16,7 @@
 * [module.exports vs exports in nodeJS](http://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-nodejs/7142924#7142924)
 * [Node.js: Is there any documentation about the process.env variable](http://stackoverflow.com/questions/15058954/node-js-is-there-any-documentation-about-the-process-env-variable)
 * [Using authbind with Node.js](https://thomashunter.name/blog/using-authbind-with-node-js/)
+* [Node.js 对图片进行裁切、缩放](http://blog.csdn.net/kidx_/article/details/9709387)
 * [Drop Root Privileges in Node.js](https://thomashunter.name/blog/drop-root-privileges-in-node-js/)
 * [Yukin-node@serve](http://djt.qq.com/ppt/24)
 * [nodejs在朋友网的实践](http://djt.qq.com/ppt/23)
