@@ -8,6 +8,7 @@
 * [node-inspector bug:process.env has undefined values for all environment variables](https://github.com/node-inspector/node-inspector/issues/361)
 * [如何使用NPM来管理你的Node.js依赖](http://www.infoq.com/cn/articles/msh-using-npm-manage-node.js-dependence/)
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
+* [How to know the name of all the sub-folders](http://stackoverflow.com/questions/19252945/how-to-know-the-name-of-all-the-sub-folders/19253706#19253706)
 * [Sending emails in Node](http://stackoverflow.com/questions/4113701/sending-emails-in-node-js)
 * [Node.js - `process.getuid()` not working on Windows](http://stackoverflow.com/questions/10356814/node-js-process-getuid-not-working-on-windows)
 * [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
