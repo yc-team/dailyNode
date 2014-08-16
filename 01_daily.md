@@ -54,3 +54,4 @@
 * [后端即服务公司StrongLoop，A轮融资800万美元](http://techcrunch.cn/2013/09/20/strongloop-raises-8m-for-mobile-app-platform-built-on-node-js/)
 * [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
 * [JavaScript安全从浏览器到服务端](http://share.csdn.net/slides/771)
+* [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
