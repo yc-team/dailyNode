@@ -4,6 +4,7 @@
 * [Node.js Interview: 4 Questions with Creator Ryan Dahl](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl/)
 * [The Node Beginner Book](http://www.nodebeginner.org/)
 * [TJ's Mastering Node](http://visionmedia.github.io/masteringnode/book.html)
+* [Nodejs Beginner Guide](http://nodeguide.com/index.html)
 * [快乐Node码农的十个习惯](http://www.infoq.com/cn/articles/node.js-habits)
 * [谢骋超：Node.js开源社区与pomelo游戏服务器框架](http://share.csdn.net/slides/541)
 * [npm install --save no longer using tildes](http://fredkschott.com/post/2014/02/npm-no-longer-defaults-to-tildes/)
