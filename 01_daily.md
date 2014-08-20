@@ -56,3 +56,4 @@
 * [JavaScript安全从浏览器到服务端](http://share.csdn.net/slides/771)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
 * [Node.js单线程缺陷的多种解决方案](http://www.infoq.com/cn/presentations/several-solutions-node.js-thread-defects)
+* [Quitting node.js gracefully](http://stackoverflow.com/questions/6958780/quitting-node-js-gracefully)
