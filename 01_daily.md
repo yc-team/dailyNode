@@ -63,4 +63,5 @@
 * [How to exit in Node.JS](http://stackoverflow.com/questions/5266152/how-to-exit-in-node-js)
 * [nodejs介绍byJacksonTian](http://devconf.qiniudn.com/Node_Introduction.pdf)
 * [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
+* [Node安全项目要进一步提升Node.js的安全性](http://www.infoq.com/cn/news/2014/06/nodejs-security-project)
 
