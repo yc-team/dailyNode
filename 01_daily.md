@@ -60,4 +60,5 @@
 * [Node.js单线程缺陷的多种解决方案](http://www.infoq.com/cn/presentations/several-solutions-node.js-thread-defects)
 * [Quitting node.js gracefully](http://stackoverflow.com/questions/6958780/quitting-node-js-gracefully)
 * [How to exit in Node.JS](http://stackoverflow.com/questions/5266152/how-to-exit-in-node-js)
+* [nodejs介绍byJacksonTian](http://devconf.qiniudn.com/Node_Introduction.pdf)
 
