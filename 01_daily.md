@@ -65,4 +65,5 @@
 * [Node v0.10.31 (Stable)](http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/)
 * [Node安全项目要进一步提升Node.js的安全性](http://www.infoq.com/cn/news/2014/06/nodejs-security-project)
 * [基于Node.js的API框架：LoopBack 2.0发布](http://www.infoq.com/cn/news/2014/07/node.js-loopback2.0-publish)
+* [MongoDB核心贡献者：不是MongoDB不行，而是你不懂！](http://www.csdn.net/article/2012-11-15/2811920-mongodb-quan-gong-lue)
 
