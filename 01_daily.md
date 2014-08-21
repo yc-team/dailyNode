@@ -66,4 +66,8 @@
 * [Node安全项目要进一步提升Node.js的安全性](http://www.infoq.com/cn/news/2014/06/nodejs-security-project)
 * [基于Node.js的API框架：LoopBack 2.0发布](http://www.infoq.com/cn/news/2014/07/node.js-loopback2.0-publish)
 * [MongoDB核心贡献者：不是MongoDB不行，而是你不懂！](http://www.csdn.net/article/2012-11-15/2811920-mongodb-quan-gong-lue)
+* [Aggregation Introduction](http://docs.mongodb.org/manual/core/aggregation-introduction/)
+* [使用MongoDB中Aggregation统计数据](http://www.yl1001.com/article/9431407228221723.htm)
+* [教程MongoDB 从入门到进阶 （aggregation数据库状态）](http://www.cnblogs.com/TextEditor/archive/2013/01/20/2857999.html)
+* [MongoDB-M101-Aggregation](http://www.wendyeq.me/blog/2013/01/27/MongoDB-M101-Aggregation)
 
