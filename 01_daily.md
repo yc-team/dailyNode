@@ -57,6 +57,7 @@
 * [TJ Holowaychuk Passes Sponsorship of Express to StrongLoop](http://strongloop.com/strongblog/tj-holowaychuk-sponsorship-of-express/)
 * [后端即服务公司StrongLoop，A轮融资800万美元](http://techcrunch.cn/2013/09/20/strongloop-raises-8m-for-mobile-app-platform-built-on-node-js/)
 * [joyent node discuss 1.0.0](https://github.com/joyent/node/issues/8104)
+* [Get local IP address in node.js](http://stackoverflow.com/questions/3653065/get-local-ip-address-in-node-js)
 * [JavaScript安全从浏览器到服务端](http://share.csdn.net/slides/771)
 * [tty.js打通浏览器与Linux的通道](http://blog.fens.me/nodejs-linux-sh-tty/)
 * [Node.js单线程缺陷的多种解决方案](http://www.infoq.com/cn/presentations/several-solutions-node.js-thread-defects)
