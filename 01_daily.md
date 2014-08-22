@@ -76,4 +76,5 @@
 * [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
+* [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
 
