@@ -73,4 +73,5 @@
 * [教程MongoDB 从入门到进阶 （aggregation数据库状态）](http://www.cnblogs.com/TextEditor/archive/2013/01/20/2857999.html)
 * [MongoDB-M101-Aggregation](http://www.wendyeq.me/blog/2013/01/27/MongoDB-M101-Aggregation)
 * [getmac模块](http://www.cnblogs.com/zhrea/p/3428483.html)
+* [Getting client's MAC address on node.js](http://stackoverflow.com/questions/19647916/getting-clients-mac-address-on-node-js)
 
