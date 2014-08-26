@@ -79,4 +79,5 @@
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
 * [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
 * [7 Tips for a Node.js Padawan](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/)
+* [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 
