@@ -78,4 +78,5 @@
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [Demystifying events in node.js](http://howtonode.org/demystifying-events-in-node)
 * [Using Node's Event Module](http://code.tutsplus.com/tutorials/using-nodes-event-module--net-35941)
+* [7 Tips for a Node.js Padawan](http://diwu.me/2013/09/24/7-tips-for-a-node-dot-js-padawan/)
 
