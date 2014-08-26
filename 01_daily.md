@@ -14,6 +14,7 @@
 * [ANSI escape code](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles)
 * [How to know the name of all the sub-folders](http://stackoverflow.com/questions/19252945/how-to-know-the-name-of-all-the-sub-folders/19253706#19253706)
 * [Sending emails in Node](http://stackoverflow.com/questions/4113701/sending-emails-in-node-js)
+* [npm frequently asked questions](https://www.npmjs.org/doc/misc/npm-faq.html)
 * [Node.js - `process.getuid()` not working on Windows](http://stackoverflow.com/questions/10356814/node-js-process-getuid-not-working-on-windows)
 * [在PayPal改善Node.js的SSL的性能](http://www.infoq.com/cn/news/2014/05/nodejs-ssl-performance)
 * [Node.js Module – exports vs module.exports](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html)
