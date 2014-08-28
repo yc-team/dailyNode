@@ -82,4 +82,5 @@
 * [告别node-forever,拥抱PM2](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 * [task automation with npm run](http://substack.net/task_automation_with_npm_run)
 * [How to extract request http headers from a request using NodeJS connect](http://stackoverflow.com/questions/13147693/how-to-extract-request-http-headers-from-a-request-using-nodejs-connect)
+* [Where is body in a nodejs http.get response?](http://stackoverflow.com/questions/6968448/where-is-body-in-a-nodejs-http-get-response)
 
