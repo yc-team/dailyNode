@@ -83,4 +83,5 @@
 * [task automation with npm run](http://substack.net/task_automation_with_npm_run)
 * [How to extract request http headers from a request using NodeJS connect](http://stackoverflow.com/questions/13147693/how-to-extract-request-http-headers-from-a-request-using-nodejs-connect)
 * [Where is body in a nodejs http.get response?](http://stackoverflow.com/questions/6968448/where-is-body-in-a-nodejs-http-get-response)
+* [使用原生nodejs 不用express之类的框架，怎么知道req 是不是Ajax 请求呢？](http://cnodejs.org/topic/50a060c9637ffa41559bbcd6)
 
