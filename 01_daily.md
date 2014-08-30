@@ -86,4 +86,5 @@
 * [使用原生nodejs 不用express之类的框架，怎么知道req 是不是Ajax 请求呢？](http://cnodejs.org/topic/50a060c9637ffa41559bbcd6)
 * [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
+* [http请求headers的顺序](http://cnodejs.org/topic/5060722e01d0b80148172f55)
 
