@@ -87,4 +87,5 @@
 * [Code a CMS in Nodejs](http://www.cody-cms.org/en/)
 * [Fix blocking / non-blocking stdio woes](https://github.com/joyent/node/issues/3584)
 * [http请求headers的顺序](http://cnodejs.org/topic/5060722e01d0b80148172f55)
+* [Object.defineProperty vs __defineGetter__ vs normal](http://jsperf.com/object-defineproperty-vs-definegetter-vs-normal)
 
